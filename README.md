@@ -31,6 +31,10 @@
 
 ![API Docs](screenshots/api-docs.png)
 
+### Database Implementation
+
+<img width="511" height="532" alt="image" src="https://github.com/user-attachments/assets/08f0fbaf-8295-4f4b-80ec-944b2f10b01f" />
+
 ## 🚀 Quick Start
 
 ### Prerequisites
