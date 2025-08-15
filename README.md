@@ -9,47 +9,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-blue.svg)](https://supabase.com)
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Quick Start](#-quick-start)
-- [API Documentation](#-api-documentation)
-- [Architecture](#-architecture)
-- [Development](#-development)
-- [Deployment](#-deployment)
-
-## ✨ Features
-
-### 🎯 Core Functionality
-- **CVE Data Management**: Sync and store CVE data from NVD API
-- **Advanced Search**: Search by CVE ID, year, CVSS score, keywords
-- **Real-time Sync**: Automated data synchronization with NVD
-- **RESTful API**: Complete API with OpenAPI documentation
-- **Responsive UI**: Modern, mobile-friendly dashboard
-
-### 🔍 Search & Filtering
-- **CVE ID Search**: Find specific vulnerabilities (e.g., CVE-2023-12345)
-- **Year Filtering**: Browse CVEs by publication year (1999-2025)
-- **CVSS Score Range**: Filter by severity scores (0.0-10.0)
-- **Keyword Search**: Full-text search in descriptions
-- **Date Filtering**: Find recently modified CVEs (last N days)
-- **Advanced Combinations**: Mix multiple filters for precise results
-
-### 📊 Data Visualization
-- **Detailed CVE Pages**: Complete vulnerability information
-- **CVSS Metrics Breakdown**: Access Vector, Complexity, Impact scores
-- **Sortable Tables**: Click headers to sort data
-- **Pagination**: Efficient browsing of large datasets
-- **Real-time Status**: Live sync progress monitoring
-
-### 🛠 Technical Features
-- **Production Ready**: Docker support, environment configuration
-- **Error Handling**: Comprehensive error management
-- **Rate Limiting**: Respects NVD API guidelines
-- **Database Migration**: From PostgreSQL to Supabase
-- **CORS Configured**: Cross-origin resource sharing setup
-
 ## 📸 Screenshots
 
 ### Dashboard Overview
