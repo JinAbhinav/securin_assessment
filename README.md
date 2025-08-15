@@ -63,6 +63,25 @@ npm install
 cd ..
 ```
 
+### ⚠️ **Important: Python Version Compatibility**
+
+**For Assessors**: There are **Python 3.13 compatibility issues** with some dependencies. Please use one of these **proven setups**:
+
+#### ✅ **Recommended: Docker Setup (Zero Issues)**
+```bash
+# Works on any system - no compatibility issues
+docker-compose up --build
+# Frontend: http://localhost:3000
+# Backend: http://localhost:8000
+```
+
+#### ✅ **Alternative: Python 3.9-3.12**
+If you prefer Python directly, use Python **3.9, 3.10, 3.11, or 3.12** (not 3.13):
+```bash
+python --version  # Should show 3.9.x - 3.12.x
+python start.py
+```
+
 ### 4. Start Application
 ```bash
 # Option 1: Use the simple startup script
