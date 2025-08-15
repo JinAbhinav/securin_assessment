@@ -35,6 +35,9 @@
 
 <img width="511" height="532" alt="image" src="https://github.com/user-attachments/assets/08f0fbaf-8295-4f4b-80ec-944b2f10b01f" />
 
+<img width="1655" height="926" alt="image" src="https://github.com/user-attachments/assets/4a348c0c-0592-4743-9854-61028cb3e534" />
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
