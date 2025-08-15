@@ -84,10 +84,12 @@ python start.py
 ### 4. Start Application
 ```bash
 # Option 1: Use the simple startup script
+dont use if docker
 python start.py
 
 # Option 2: Manual startup
 # Terminal 1 - Backend
+dont use if using docker 
 uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 
 # Terminal 2 - Frontend  
