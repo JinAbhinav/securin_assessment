@@ -63,9 +63,9 @@ npm install
 cd ..
 ```
 
-### ⚠️ **Important: Python Version Compatibility**
+###  **Python Version Compatibility**
 
-**For Assessors**: There are **Python 3.13 compatibility issues** with some dependencies. Please use one of these **proven setups**:
+There are **Python 3.13 compatibility issues** with some dependencies. Please use one of these **proven setups**:
 
 #### ✅ **Recommended: Docker Setup (Zero Issues)**
 ```bash
