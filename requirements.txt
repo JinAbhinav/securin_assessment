@@ -1,0 +1,23 @@
+# CVE Assessment API - Minimal Dependencies
+# Only includes what we actually use in the codebase
+
+# Web Framework (REQUIRED)
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Database (REQUIRED)
+asyncpg==0.29.0
+supabase==2.0.2
+
+# HTTP Client (REQUIRED - for NVD API)
+aiohttp==3.9.1
+
+# Data Processing (REQUIRED)
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Monitoring & Logging (REQUIRED)
+structlog==23.2.0
+
+# Testing (OPTIONAL - only for running tests)
+requests==2.31.0

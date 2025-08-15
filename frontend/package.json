@@ -1,0 +1,22 @@
+{
+  "name": "cve-assessment-dashboard",
+  "version": "1.0.0",
+  "description": "CVE Assessment Dashboard Frontend - Pure HTML/CSS/JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "python -m http.server 3000"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "cve",
+    "assessment",
+    "dashboard",
+    "frontend"
+  ],
+  "author": "",
+  "license": "MIT"
+}
