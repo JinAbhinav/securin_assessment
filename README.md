@@ -40,7 +40,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/jinabhinav/securin_assessment.git
+git clone https://github.com/JinAbhinav/securin_assessment.git
 cd securin_assessment
 ```
 
