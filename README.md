@@ -192,7 +192,6 @@ securin_assessment/
 │   ├── js/               # JavaScript modules
 │   └── index.html        # Main HTML file
 ├── database/             # Database schema
-├── scripts/              # Utility scripts
 └── start.py             # Simple startup script
 ```
 
