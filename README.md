@@ -71,8 +71,7 @@ There are **Python 3.13 compatibility issues** with some dependencies. Please us
 ```bash
 # Works on any system - no compatibility issues
 docker-compose up --build
-# Frontend: http://localhost:3000
-# Backend: http://localhost:8000
+# Only Backend: http://localhost:8000
 ```
 
 #### ✅ **Alternative: Python 3.9-3.12**
