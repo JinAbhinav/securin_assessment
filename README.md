@@ -27,7 +27,7 @@
 ![CVE Detail](screenshots/cve-detail.png)
 
 ### API Documentation
-*Auto-generated OpenAPI documentation*
+
 
 ![API Docs](screenshots/api-docs.png)
 
