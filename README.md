@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 NVD API Dashboard
 
 **A comprehensive web application for browsing and searching CVE (Common Vulnerabilities and Exposures) data from the National Vulnerability Database.**
@@ -324,3 +325,7 @@ This NVD API Dashboard demonstrates:
 - **Code Quality**: Clean, documented, well-structured codebase
 
 **Ready for immediate assessment and deployment!** 🚀
+=======
+# securin_assessment
+Created by Abhinav U for Securin Assessment
+>>>>>>> f79870203c469e979d494c80f1d32f4e8b7148d7
